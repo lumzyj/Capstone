@@ -9,9 +9,9 @@ from urllib.request import urlopen
 # app = Flask(__name__)
 
 
-AUTH0_DOMAIN = 'dev-o1wdglbml3ts8wb2.us.auth0.com'
+AUTH0_DOMAIN = 'dev-wodfpgg7iymgfbzn.us.auth0.com'
 ALGORITHMS = ['RS256']
-API_AUDIENCE = 'capstone'
+API_AUDIENCE = 'Legacy'
 
 
 
